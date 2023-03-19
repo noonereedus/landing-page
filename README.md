@@ -1,2 +1,2 @@
 # landing-page
-A modifyable template of a webpage.
+A showcase template of a webpage.
